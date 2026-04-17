@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NfcFlasher">
+
+    <!-- ────────── Preview card ────────── -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/previewImageWrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:cardElevation="10dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/imagePreviewCardBody"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/imagePreviewText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="30dp"
+                android:paddingVertical="10dp"
+                android:text="@string/imagePreviewText"
+                android:textSize="12pt"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/previewImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/image_preview_content_description"
+                android:layout_marginTop="10dp"
+                android:minWidth="340dp"
+                android:minHeight="240dp"
+                android:padding="10dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/imagePreviewText"
+                app:srcCompat="@android:drawable/stat_sys_warning" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Hardware version badge — shown while flashing (V2/V3 indicator) -->
+    <TextView
+        android:id="@+id/tv_hardware_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="4dp"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:background="#80000000"
+        android:visibility="gone"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/previewImageWrapper"
+        tools:text="V3 (IsoDep)" />
+
+    <!-- "Hold phone to flash …" prompt -->
+    <TextView
+        android:id="@+id/holdPhoneToPairTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hold_phone_to_flash_text"
+        android:textSize="20sp"
+        android:layout_marginTop="140dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/previewImageWrapper" />
+
+    <!-- Area shown *only* while flashing -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/whileFlashingArea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginTop="380dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/previewImageWrapper">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <include layout="@layout/nfc_write_dialog" />
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Reset / white-flush button -->
+    <Button
+        android:id="@+id/btn_reset_screen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET SCREEN"
+        android:textAllCaps="true"
+        android:layout_margin="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="gone"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

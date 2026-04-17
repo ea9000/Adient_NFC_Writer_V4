@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_darkest">#394855</color>
+    <color name="blue_dark">#007fc6</color>
+    <color name="blue_medium">#00b4ff</color>
+    <color name="blue_light">#d1f5ff</color>
+    <color name="tan_light">#ffeccc</color>
+    <color name="tan_dark">#8c7357</color>
+    <color name="tan_darkest">#703900</color>
+    <color name="header_primary">#2192fc</color>
+    <color name="card_secondary">#7ab7f0</color>
+</resources>

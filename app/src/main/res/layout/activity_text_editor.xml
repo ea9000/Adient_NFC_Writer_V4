@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextEditor">
+
+    <!-- FLASH/PROGRAM button at the very top -->
+    <Button
+        android:id="@+id/flashTextButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/flashButtonText"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Station header bar below the button: full-width, primary-blue background.
+         Text styling (bold, white, 18sp) is applied by a custom adapter in Kotlin. -->
+    <Spinner
+        android:id="@+id/spinner_stations"
+        android:layout_width="0dp"
+        android:layout_height="56dp"
+        android:background="@color/blue_dark"
+        android:paddingHorizontal="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/flashTextButton" />
+
+    <!-- File picker: hidden (GONE) until a station is chosen.
+         ConstraintLayout collapses GONE views to 0-size, so the WebView
+         snaps up cleanly when this is not visible. -->
+    <Spinner
+        android:id="@+id/spinner_files"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:minHeight="44dp"
+        android:paddingHorizontal="16dp"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/spinner_stations" />
+
+    <!-- Text-editor WebView fills all remaining space -->
+    <WebView
+        android:id="@+id/textEditWebView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintTop_toBottomOf="@id/spinner_files"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

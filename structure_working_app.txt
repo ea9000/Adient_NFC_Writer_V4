@@ -1,0 +1,1775 @@
+Folder PATH listing for volume OSDisk
+Volume serial number is 18B7-464C
+C:.
+³   .gitignore
+³   build.gradle
+³   gradle.properties
+³   gradlew
+³   gradlew.bat
+³   LICENSE
+³   local.properties
+³   preview-webview.bat
+³   README.md
+³   settings.gradle
+³   structure_working_app.txt
+³   
+ÃÄÄÄ.gradle
+³   ³   config.properties
+³   ³   
+³   ÃÄÄÄ6.5
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileContent
+³   ³   ³       fileContent.lock
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÃÄÄÄjavaCompile
+³   ³   ³       classAnalysis.bin
+³   ³   ³       jarAnalysis.bin
+³   ³   ³       javaCompile.lock
+³   ³   ³       taskHistory.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata-1
+³   ÃÄÄÄ6.7.1
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÃÄÄÄjavaCompile
+³   ³   ³       classAnalysis.bin
+³   ³   ³       jarAnalysis.bin
+³   ³   ³       javaCompile.lock
+³   ³   ³       taskHistory.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata-1
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       outputFiles.bin
+³   ³       
+³   ÃÄÄÄchecksums
+³   ³       checksums.lock
+³   ³       md5-checksums.bin
+³   ³       sha1-checksums.bin
+³   ³       
+³   ÃÄÄÄconfiguration-cache
+³   ³       gc.properties
+³   ³       
+³   ÀÄÄÄvcs-1
+³           gc.properties
+³           
+ÃÄÄÄ.idea
+³   ³   .gitignore
+³   ³   .name
+³   ³   AndroidProjectSystem.xml
+³   ³   compiler.xml
+³   ³   deploymentTargetSelector.xml
+³   ³   deviceManager.xml
+³   ³   gradle.xml
+³   ³   jarRepositories.xml
+³   ³   migrations.xml
+³   ³   misc.xml
+³   ³   nfc-epaper-writer-main.iml
+³   ³   runConfigurations.xml
+³   ³   workspace.xml
+³   ³   
+³   ÃÄÄÄcaches
+³   ³       deviceStreaming.xml
+³   ³       
+³   ÃÄÄÄcodeStyles
+³   ³       codeStyleConfig.xml
+³   ³       Project.xml
+³   ³       
+³   ÀÄÄÄmodules
+³       ÀÄÄÄapp
+ÃÄÄÄapp
+³   ³   .gitignore
+³   ³   build.gradle
+³   ³   proguard-rules.pro
+³   ³   
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄgenerated
+³   ³   ³   ÃÄÄÄap_generated_sources
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄres
+³   ³   ³   ³   ÃÄÄÄpngs
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-anydpi-v21
+³   ³   ³   ³   ³       ³       ic_launcher_background.xml
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-anydpi-v24
+³   ³   ³   ³   ³       ³       ic_launcher_foreground.xml
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-hdpi
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-ldpi
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-mdpi
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-xhdpi
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÃÄÄÄdrawable-xxhdpi
+³   ³   ³   ³   ³       ³       ic_launcher_background.png
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÀÄÄÄdrawable-xxxhdpi
+³   ³   ³   ³   ³               ic_launcher_background.png
+³   ³   ³   ³   ³               
+³   ³   ³   ³   ÀÄÄÄresValues
+³   ³   ³   ³       ÃÄÄÄandroidTest
+³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ÀÄÄÄsource
+³   ³   ³       ÀÄÄÄbuildConfig
+³   ³   ³           ÃÄÄÄandroidTest
+³   ³   ³           ³   ÀÄÄÄdebug
+³   ³   ³           ³       ÀÄÄÄcom
+³   ³   ³           ³           ÀÄÄÄjoshuatz
+³   ³   ³           ³               ÀÄÄÄnfceinkwriter
+³   ³   ³           ³                   ÀÄÄÄtest
+³   ³   ³           ³                           BuildConfig.java
+³   ³   ³           ³                           
+³   ³   ³           ÀÄÄÄdebug
+³   ³   ³               ÀÄÄÄcom
+³   ³   ³                   ÀÄÄÄjoshuatz
+³   ³   ³                       ÀÄÄÄnfceinkwriter
+³   ³   ³                               BuildConfig.java
+³   ³   ³                               
+³   ³   ÃÄÄÄintermediates
+³   ³   ³   ÃÄÄÄaar_metadata_check
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       annotationProcessors.json
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄdebugAndroidTest
+³   ³   ³   ³   ³       annotationProcessors.json
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugUnitTest
+³   ³   ³   ³           annotationProcessors.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄapp_classes
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           classes.jar
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄapp_metadata
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           app-metadata.properties
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompatible_screen_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompile_and_runtime_not_namespaced_r_class_jar
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       R.jar
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           R.jar
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄcompressed_assets
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³       ÀÄÄÄassets
+³   ³   ³   ³   ³           ÀÄÄÄeditors
+³   ³   ³   ³   ³               ³   common.css.jar
+³   ³   ³   ³   ³               ³   common.js.jar
+³   ³   ³   ³   ³               ³   
+³   ³   ³   ³   ³               ÃÄÄÄtext
+³   ³   ³   ³   ³               ³       index.html.jar
+³   ³   ³   ³   ³               ³       main.js.jar
+³   ³   ³   ³   ³               ³       style.css.jar
+³   ³   ³   ³   ³               ³       
+³   ³   ³   ³   ³               ÀÄÄÄwysiwyg
+³   ³   ³   ³   ³                       main.js.jar
+³   ³   ³   ³   ³                       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_merge
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdesugar_graph
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³       ÃÄÄÄcurrentProject
+³   ³   ³   ³   ³       ³   ÃÄÄÄdirs_bucket_0
+³   ³   ³   ³   ³       ³   ³       graph.bin
+³   ³   ³   ³   ³       ³   ³       
+³   ³   ³   ³   ³       ³   ÃÄÄÄdirs_bucket_1
+³   ³   ³   ³   ³       ³   ³       graph.bin
+³   ³   ³   ³   ³       ³   ³       
+³   ³   ³   ³   ³       ³   ÃÄÄÄjar_801f2b0b7cb8e9e08597d728606c69d237d4d84feb1f61d23a2726162bfaf9b7_bucket_0
+³   ³   ³   ³   ³       ³   ³       graph.bin
+³   ³   ³   ³   ³       ³   ³       
+³   ³   ³   ³   ³       ³   ÀÄÄÄjar_801f2b0b7cb8e9e08597d728606c69d237d4d84feb1f61d23a2726162bfaf9b7_bucket_1
+³   ³   ³   ³   ³       ³           graph.bin
+³   ³   ³   ³   ³       ³           
+³   ³   ³   ³   ³       ÃÄÄÄexternalLibs
+³   ³   ³   ³   ³       ÃÄÄÄmixedScopes
+³   ³   ³   ³   ³       ÀÄÄÄotherProjects
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ÃÄÄÄcurrentProject
+³   ³   ³   ³           ³   ÃÄÄÄdirs_bucket_0
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄdirs_bucket_1
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÃÄÄÄjar_3c9343a6423dca7df3ff3d73826e851d5ffb52d30b79bd15c25ee6b9c6244fec_bucket_0
+³   ³   ³   ³           ³   ³       graph.bin
+³   ³   ³   ³           ³   ³       
+³   ³   ³   ³           ³   ÀÄÄÄjar_3c9343a6423dca7df3ff3d73826e851d5ffb52d30b79bd15c25ee6b9c6244fec_bucket_1
+³   ³   ³   ³           ³           graph.bin
+³   ³   ³   ³           ³           
+³   ³   ³   ³           ÃÄÄÄexternalLibs
+³   ³   ³   ³           ÃÄÄÄmixedScopes
+³   ³   ³   ³           ÀÄÄÄotherProjects
+³   ³   ³   ÃÄÄÄdex
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄmergeDexDebug
+³   ³   ³   ³   ³           classes.dex
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄmergeDexDebugAndroidTest
+³   ³   ³   ³               classes.dex
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdex_archive_input_jar_hashes
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       out
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           out
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄdex_number_of_buckets_file
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       out
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           out
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄduplicate_classes_check
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ÃÄÄÄexternal_file_lib_dex_archives
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       0_jetified-NFC.jar
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ÃÄÄÄexternal_libs_dex
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄmergeExtDexDebug
+³   ³   ³   ³   ³           classes.dex
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄmergeExtDexDebugAndroidTest
+³   ³   ³   ³               classes.dex
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive_with_artifact_transforms
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ÃÄÄÄdebug-mergeJavaRes
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           +AWztP9_P4iXEcBZM2OSE_TA1KY=
+³   ³   ³   ³   ³           0aDoODO3JIaVI_Gx_EOHKxu_Z7M=
+³   ³   ³   ³   ³           0EjN33epNpOA9XNe6kSRMnw2AeM=
+³   ³   ³   ³   ³           1tTtkpzY0Ol0DBWR7AbDsJWDksw=
+³   ³   ³   ³   ³           29nYxfjjVLA3VSSCMtbV2SCtflM=
+³   ³   ³   ³   ³           2KcbvOOXxLT+E6hRHDtVBaf54V4=
+³   ³   ³   ³   ³           2UaZYiy5YEmiJzUkUNnYE2YqOtk=
+³   ³   ³   ³   ³           31ZwPoqW2o0Kwe2GN8BKgOVSeeA=
+³   ³   ³   ³   ³           6sTN3Ie0CJFCPjvNmwBpqjyRMP4=
+³   ³   ³   ³   ³           7x+S4CggY7CoSCBk6w04Moi2V1g=
+³   ³   ³   ³   ³           8HVT2x4diiC84Z6a7tyZoXjijCk=
+³   ³   ³   ³   ³           8RjHDeCBXuW1V99xHOZe0hsMv7c=
+³   ³   ³   ³   ³           afS4AxIra+3e1+xBsJcqlun2f0A=
+³   ³   ³   ³   ³           AIbWWNFpPfFj6yEKShVrA0wtqcE=
+³   ³   ³   ³   ³           bzaAzSHtjG+T403+FdvajEWG6Ho=
+³   ³   ³   ³   ³           CBwAvjIPefQiubSmQ7snXEs6riY=
+³   ³   ³   ³   ³           Ctb+HxBsNCfyU7Hp9mozPzL3iHI=
+³   ³   ³   ³   ³           DNcQhWBvXv9oZO80FGV68qftQY8=
+³   ³   ³   ³   ³           EmXb+LacBedE_zHTzxfttEapv70=
+³   ³   ³   ³   ³           f67KEkStwKpvOGjbskKkScoouzk=
+³   ³   ³   ³   ³           f6uuQAQVx+Rb1QcOi+9pctV6m6U=
+³   ³   ³   ³   ³           FMwC23oyUPjQH6lYFPRCWb10kyg=
+³   ³   ³   ³   ³           FWw2pD8ez4G3QfF6bawquXYIoxA=
+³   ³   ³   ³   ³           Gw4KUwsHU+HzRmIeaIBMG2qrWiw=
+³   ³   ³   ³   ³           GWuL7TdD1FJ3mkahNyxEI2clcRg=
+³   ³   ³   ³   ³           Ipg759vTMSaRnaevo6wvD5x+W0M=
+³   ³   ³   ³   ³           K28F1wmxcYrFpv3Iq8aRcJ8tMFw=
+³   ³   ³   ³   ³           kql9A84OsSyFm+_8PodqbNloYnw=
+³   ³   ³   ³   ³           LH5588Pgs1XAI3zUhGIxW0EN5ww=
+³   ³   ³   ³   ³           M0VZDHNEYWltaCzoWcuawaQYA0c=
+³   ³   ³   ³   ³           m51xSleb1CfD989qGbFkAXUP3G8=
+³   ³   ³   ³   ³           mDhTY7vrGbBROzwD+BlTNsgkbhM=
+³   ³   ³   ³   ³           NsmGBWxnrJ7D5yPrH_t3OyRZe_A=
+³   ³   ³   ³   ³           OU2LxVaivH7uyg5ZgtOz7av7Yyk=
+³   ³   ³   ³   ³           PNGPmqSyWi43iTECAe_5m+M+LdY=
+³   ³   ³   ³   ³           pzeMqbscptbImniEWqI4H98k7jk=
+³   ³   ³   ³   ³           r7PG3NTgtg0x0zv6ECuyL14kK6s=
+³   ³   ³   ³   ³           Ri0ZErki_BtrMAWP9lVMkVamRMs=
+³   ³   ³   ³   ³           soaEWxSG26Lumxzg+k36RvJ1ZH8=
+³   ³   ³   ³   ³           t8H5gfHgD_YlTedmRM+9z5Tv0IA=
+³   ³   ³   ³   ³           Tnpagc9UiP10lmL3nYRGZEqls7M=
+³   ³   ³   ³   ³           UMMGvaAA7plRTmR5CRcuHDxf1LQ=
+³   ³   ³   ³   ³           V6AwqIavXWmnorG3f379S4wUJm4=
+³   ³   ³   ³   ³           XjqDWu+9rb9uKSGUQkxGnBedioo=
+³   ³   ³   ³   ³           xswRU2VXTZqOKsUYsOTpnvPGjlc=
+³   ³   ³   ³   ³           XweU9CQJCevi5dfQQZd+bxDtweQ=
+³   ³   ³   ³   ³           y70rGEiktSj1StjHysb9cd5Whkg=
+³   ³   ³   ³   ³           zE5bBou9Tlc7sYJWaB0oV_nYWEU=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄdebug-mergeNativeLibs
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           +AWztP9_P4iXEcBZM2OSE_TA1KY=
+³   ³   ³   ³   ³           0aDoODO3JIaVI_Gx_EOHKxu_Z7M=
+³   ³   ³   ³   ³           0EjN33epNpOA9XNe6kSRMnw2AeM=
+³   ³   ³   ³   ³           1tTtkpzY0Ol0DBWR7AbDsJWDksw=
+³   ³   ³   ³   ³           29nYxfjjVLA3VSSCMtbV2SCtflM=
+³   ³   ³   ³   ³           2KcbvOOXxLT+E6hRHDtVBaf54V4=
+³   ³   ³   ³   ³           2UaZYiy5YEmiJzUkUNnYE2YqOtk=
+³   ³   ³   ³   ³           31ZwPoqW2o0Kwe2GN8BKgOVSeeA=
+³   ³   ³   ³   ³           6sTN3Ie0CJFCPjvNmwBpqjyRMP4=
+³   ³   ³   ³   ³           7x+S4CggY7CoSCBk6w04Moi2V1g=
+³   ³   ³   ³   ³           8HVT2x4diiC84Z6a7tyZoXjijCk=
+³   ³   ³   ³   ³           8RjHDeCBXuW1V99xHOZe0hsMv7c=
+³   ³   ³   ³   ³           afS4AxIra+3e1+xBsJcqlun2f0A=
+³   ³   ³   ³   ³           AIbWWNFpPfFj6yEKShVrA0wtqcE=
+³   ³   ³   ³   ³           bzaAzSHtjG+T403+FdvajEWG6Ho=
+³   ³   ³   ³   ³           CBwAvjIPefQiubSmQ7snXEs6riY=
+³   ³   ³   ³   ³           Ctb+HxBsNCfyU7Hp9mozPzL3iHI=
+³   ³   ³   ³   ³           DNcQhWBvXv9oZO80FGV68qftQY8=
+³   ³   ³   ³   ³           EmXb+LacBedE_zHTzxfttEapv70=
+³   ³   ³   ³   ³           f67KEkStwKpvOGjbskKkScoouzk=
+³   ³   ³   ³   ³           f6uuQAQVx+Rb1QcOi+9pctV6m6U=
+³   ³   ³   ³   ³           FMwC23oyUPjQH6lYFPRCWb10kyg=
+³   ³   ³   ³   ³           FWw2pD8ez4G3QfF6bawquXYIoxA=
+³   ³   ³   ³   ³           Gw4KUwsHU+HzRmIeaIBMG2qrWiw=
+³   ³   ³   ³   ³           GWuL7TdD1FJ3mkahNyxEI2clcRg=
+³   ³   ³   ³   ³           Ipg759vTMSaRnaevo6wvD5x+W0M=
+³   ³   ³   ³   ³           K28F1wmxcYrFpv3Iq8aRcJ8tMFw=
+³   ³   ³   ³   ³           kql9A84OsSyFm+_8PodqbNloYnw=
+³   ³   ³   ³   ³           LH5588Pgs1XAI3zUhGIxW0EN5ww=
+³   ³   ³   ³   ³           M0VZDHNEYWltaCzoWcuawaQYA0c=
+³   ³   ³   ³   ³           m51xSleb1CfD989qGbFkAXUP3G8=
+³   ³   ³   ³   ³           mDhTY7vrGbBROzwD+BlTNsgkbhM=
+³   ³   ³   ³   ³           NsmGBWxnrJ7D5yPrH_t3OyRZe_A=
+³   ³   ³   ³   ³           OU2LxVaivH7uyg5ZgtOz7av7Yyk=
+³   ³   ³   ³   ³           PNGPmqSyWi43iTECAe_5m+M+LdY=
+³   ³   ³   ³   ³           pzeMqbscptbImniEWqI4H98k7jk=
+³   ³   ³   ³   ³           r7PG3NTgtg0x0zv6ECuyL14kK6s=
+³   ³   ³   ³   ³           Ri0ZErki_BtrMAWP9lVMkVamRMs=
+³   ³   ³   ³   ³           soaEWxSG26Lumxzg+k36RvJ1ZH8=
+³   ³   ³   ³   ³           t8H5gfHgD_YlTedmRM+9z5Tv0IA=
+³   ³   ³   ³   ³           Tnpagc9UiP10lmL3nYRGZEqls7M=
+³   ³   ³   ³   ³           UMMGvaAA7plRTmR5CRcuHDxf1LQ=
+³   ³   ³   ³   ³           V6AwqIavXWmnorG3f379S4wUJm4=
+³   ³   ³   ³   ³           XjqDWu+9rb9uKSGUQkxGnBedioo=
+³   ³   ³   ³   ³           xswRU2VXTZqOKsUYsOTpnvPGjlc=
+³   ³   ³   ³   ³           XweU9CQJCevi5dfQQZd+bxDtweQ=
+³   ³   ³   ³   ³           y70rGEiktSj1StjHysb9cd5Whkg=
+³   ³   ³   ³   ³           zE5bBou9Tlc7sYJWaB0oV_nYWEU=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄdebugAndroidTest-mergeJavaRes
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           0QE6YXBczmU4akzqiPxTqTuPcB4=
+³   ³   ³   ³   ³           53Vk4uwFkxWVDH5XAOvOigEPoa8=
+³   ³   ³   ³   ³           ACJaPvw3CIMkBa9NBgnq+6S_iTY=
+³   ³   ³   ³   ³           DJoq5QrZdpki7Uxo4P7zW8KsK_I=
+³   ³   ³   ³   ³           iAvEI+UQ4D+zIinkP_UnVsqvv1I=
+³   ³   ³   ³   ³           J7NnCR5gN0J2RlVhO8HrRgHTik0=
+³   ³   ³   ³   ³           MJNcaRQIzEwvL7dUKFOysMiQp7M=
+³   ³   ³   ³   ³           pVlGwxuacjQfoUGrjzAotSpOqbo=
+³   ³   ³   ³   ³           R45mCPRvregfV7NPEqQOodFJZkw=
+³   ³   ³   ³   ³           Rh8s3VD9WPRg4iMlS0eh_4M9flc=
+³   ³   ³   ³   ³           tqO_aEiQmYRjzeeSTSk1m2n5x5o=
+³   ³   ³   ³   ³           WdL3dJ4iTrFb5wepp0HABUFmXrI=
+³   ³   ³   ³   ³           wwaR+W+_2jW8Q0SaYvrLWzeCQi0=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄdebugAndroidTest-mergeNativeLibs
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           0QE6YXBczmU4akzqiPxTqTuPcB4=
+³   ³   ³   ³   ³           53Vk4uwFkxWVDH5XAOvOigEPoa8=
+³   ³   ³   ³   ³           ACJaPvw3CIMkBa9NBgnq+6S_iTY=
+³   ³   ³   ³   ³           DJoq5QrZdpki7Uxo4P7zW8KsK_I=
+³   ³   ³   ³   ³           iAvEI+UQ4D+zIinkP_UnVsqvv1I=
+³   ³   ³   ³   ³           J7NnCR5gN0J2RlVhO8HrRgHTik0=
+³   ³   ³   ³   ³           MJNcaRQIzEwvL7dUKFOysMiQp7M=
+³   ³   ³   ³   ³           pVlGwxuacjQfoUGrjzAotSpOqbo=
+³   ³   ³   ³   ³           R45mCPRvregfV7NPEqQOodFJZkw=
+³   ³   ³   ³   ³           Rh8s3VD9WPRg4iMlS0eh_4M9flc=
+³   ³   ³   ³   ³           tqO_aEiQmYRjzeeSTSk1m2n5x5o=
+³   ³   ³   ³   ³           WdL3dJ4iTrFb5wepp0HABUFmXrI=
+³   ³   ³   ³   ³           wwaR+W+_2jW8Q0SaYvrLWzeCQi0=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄmergeDebugAndroidTestAssets
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugAndroidTestJniLibFolders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugAndroidTestResources
+³   ³   ³   ³   ³   ³   compile-file-map.properties
+³   ³   ³   ³   ³   ³   merger.xml
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ÀÄÄÄstripped.dir
+³   ³   ³   ³   ÃÄÄÄmergeDebugAndroidTestShaders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugAssets
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugJniLibFolders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugResources
+³   ³   ³   ³   ³   ³   compile-file-map.properties
+³   ³   ³   ³   ³   ³   merger.xml
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues
+³   ³   ³   ³   ³   ³   ³       values.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-af
+³   ³   ³   ³   ³   ³   ³       values-af.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-am
+³   ³   ³   ³   ³   ³   ³       values-am.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ar
+³   ³   ³   ³   ³   ³   ³       values-ar.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-as
+³   ³   ³   ³   ³   ³   ³       values-as.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-az
+³   ³   ³   ³   ³   ³   ³       values-az.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-b+sr+Latn
+³   ³   ³   ³   ³   ³   ³       values-b+sr+Latn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-be
+³   ³   ³   ³   ³   ³   ³       values-be.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bg
+³   ³   ³   ³   ³   ³   ³       values-bg.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bn
+³   ³   ³   ³   ³   ³   ³       values-bn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-bs
+³   ³   ³   ³   ³   ³   ³       values-bs.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ca
+³   ³   ³   ³   ³   ³   ³       values-ca.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-cs
+³   ³   ³   ³   ³   ³   ³       values-cs.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-da
+³   ³   ³   ³   ³   ³   ³       values-da.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-de
+³   ³   ³   ³   ³   ³   ³       values-de.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-el
+³   ³   ³   ³   ³   ³   ³       values-el.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rAU
+³   ³   ³   ³   ³   ³   ³       values-en-rAU.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rCA
+³   ³   ³   ³   ³   ³   ³       values-en-rCA.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rGB
+³   ³   ³   ³   ³   ³   ³       values-en-rGB.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rIN
+³   ³   ³   ³   ³   ³   ³       values-en-rIN.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-en-rXC
+³   ³   ³   ³   ³   ³   ³       values-en-rXC.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-es
+³   ³   ³   ³   ³   ³   ³       values-es.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-es-rGT
+³   ³   ³   ³   ³   ³   ³       values-es-rGT.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-es-rUS
+³   ³   ³   ³   ³   ³   ³       values-es-rUS.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-et
+³   ³   ³   ³   ³   ³   ³       values-et.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-eu
+³   ³   ³   ³   ³   ³   ³       values-eu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fa
+³   ³   ³   ³   ³   ³   ³       values-fa.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fi
+³   ³   ³   ³   ³   ³   ³       values-fi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fr
+³   ³   ³   ³   ³   ³   ³       values-fr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-fr-rCA
+³   ³   ³   ³   ³   ³   ³       values-fr-rCA.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-gl
+³   ³   ³   ³   ³   ³   ³       values-gl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-gu
+³   ³   ³   ³   ³   ³   ³       values-gu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h360dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-h360dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h480dp-land-v13
+³   ³   ³   ³   ³   ³   ³       values-h480dp-land-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-h720dp-v13
+³   ³   ³   ³   ³   ³   ³       values-h720dp-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hdpi-v4
+³   ³   ³   ³   ³   ³   ³       values-hdpi-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-he
+³   ³   ³   ³   ³   ³   ³       values-he.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hi
+³   ³   ³   ³   ³   ³   ³       values-hi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hr
+³   ³   ³   ³   ³   ³   ³       values-hr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hu
+³   ³   ³   ³   ³   ³   ³       values-hu.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-hy
+³   ³   ³   ³   ³   ³   ³       values-hy.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-id
+³   ³   ³   ³   ³   ³   ³       values-id.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-in
+³   ³   ³   ³   ³   ³   ³       values-in.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-is
+³   ³   ³   ³   ³   ³   ³       values-is.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-it
+³   ³   ³   ³   ³   ³   ³       values-it.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-iw
+³   ³   ³   ³   ³   ³   ³       values-iw.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ja
+³   ³   ³   ³   ³   ³   ³       values-ja.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ka
+³   ³   ³   ³   ³   ³   ³       values-ka.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-kk
+³   ³   ³   ³   ³   ³   ³       values-kk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-km
+³   ³   ³   ³   ³   ³   ³       values-km.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-kn
+³   ³   ³   ³   ³   ³   ³       values-kn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ko
+³   ³   ³   ³   ³   ³   ³       values-ko.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ky
+³   ³   ³   ³   ³   ³   ³       values-ky.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-land
+³   ³   ³   ³   ³   ³   ³       values-land.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-large-v4
+³   ³   ³   ³   ³   ³   ³       values-large-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ldltr-v21
+³   ³   ³   ³   ³   ³   ³       values-ldltr-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lo
+³   ³   ³   ³   ³   ³   ³       values-lo.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lt
+³   ³   ³   ³   ³   ³   ³       values-lt.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-lv
+³   ³   ³   ³   ³   ³   ³       values-lv.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mk
+³   ³   ³   ³   ³   ³   ³       values-mk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ml
+³   ³   ³   ³   ³   ³   ³       values-ml.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mn
+³   ³   ³   ³   ³   ³   ³       values-mn.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-mr
+³   ³   ³   ³   ³   ³   ³       values-mr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ms
+³   ³   ³   ³   ³   ³   ³       values-ms.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-my
+³   ³   ³   ³   ³   ³   ³       values-my.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-nb
+³   ³   ³   ³   ³   ³   ³       values-nb.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ne
+³   ³   ³   ³   ³   ³   ³       values-ne.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-night-v8
+³   ³   ³   ³   ³   ³   ³       values-night-v8.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-nl
+³   ³   ³   ³   ³   ³   ³       values-nl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-or
+³   ³   ³   ³   ³   ³   ³       values-or.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pa
+³   ³   ³   ³   ³   ³   ³       values-pa.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pl
+³   ³   ³   ³   ³   ³   ³       values-pl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-port
+³   ³   ³   ³   ³   ³   ³       values-port.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt
+³   ³   ³   ³   ³   ³   ³       values-pt.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt-rBR
+³   ³   ³   ³   ³   ³   ³       values-pt-rBR.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-pt-rPT
+³   ³   ³   ³   ³   ³   ³       values-pt-rPT.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ro
+³   ³   ³   ³   ³   ³   ³       values-ro.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ru
+³   ³   ³   ³   ³   ³   ³       values-ru.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ru-rRU
+³   ³   ³   ³   ³   ³   ³       values-ru-rRU.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-si
+³   ³   ³   ³   ³   ³   ³       values-si.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sk
+³   ³   ³   ³   ³   ³   ³       values-sk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sl
+³   ³   ³   ³   ³   ³   ³       values-sl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-small-v4
+³   ³   ³   ³   ³   ³   ³       values-small-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sq
+³   ³   ³   ³   ³   ³   ³       values-sq.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sr
+³   ³   ³   ³   ³   ³   ³       values-sr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sv
+³   ³   ³   ³   ³   ³   ³       values-sv.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sw
+³   ³   ³   ³   ³   ³   ³       values-sw.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-sw600dp-v13
+³   ³   ³   ³   ³   ³   ³       values-sw600dp-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ta
+³   ³   ³   ³   ³   ³   ³       values-ta.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-te
+³   ³   ³   ³   ³   ³   ³       values-te.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-th
+³   ³   ³   ³   ³   ³   ³       values-th.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-tl
+³   ³   ³   ³   ³   ³   ³       values-tl.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-tr
+³   ³   ³   ³   ³   ³   ³       values-tr.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-uk
+³   ³   ³   ³   ³   ³   ³       values-uk.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-ur
+³   ³   ³   ³   ³   ³   ³       values-ur.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-uz
+³   ³   ³   ³   ³   ³   ³       values-uz.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v16
+³   ³   ³   ³   ³   ³   ³       values-v16.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v17
+³   ³   ³   ³   ³   ³   ³       values-v17.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v18
+³   ³   ³   ³   ³   ³   ³       values-v18.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v21
+³   ³   ³   ³   ³   ³   ³       values-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v22
+³   ³   ³   ³   ³   ³   ³       values-v22.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v23
+³   ³   ³   ³   ³   ³   ³       values-v23.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v24
+³   ³   ³   ³   ³   ³   ³       values-v24.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v25
+³   ³   ³   ³   ³   ³   ³       values-v25.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v26
+³   ³   ³   ³   ³   ³   ³       values-v26.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-v28
+³   ³   ³   ³   ³   ³   ³       values-v28.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-vi
+³   ³   ³   ³   ³   ³   ³       values-vi.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w360dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-w360dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-w480dp-port-v13
+³   ³   ³   ³   ³   ³   ³       values-w480dp-port-v13.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-watch-v20
+³   ³   ³   ³   ³   ³   ³       values-watch-v20.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-watch-v21
+³   ³   ³   ³   ³   ³   ³       values-watch-v21.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-xlarge-v4
+³   ³   ³   ³   ³   ³   ³       values-xlarge-v4.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh
+³   ³   ³   ³   ³   ³   ³       values-zh.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rCN
+³   ³   ³   ³   ³   ³   ³       values-zh-rCN.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rHK
+³   ³   ³   ³   ³   ³   ³       values-zh-rHK.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÃÄÄÄvalues-zh-rTW
+³   ³   ³   ³   ³   ³   ³       values-zh-rTW.xml
+³   ³   ³   ³   ³   ³   ³       
+³   ³   ³   ³   ³   ³   ÀÄÄÄvalues-zu
+³   ³   ³   ³   ³   ³           values-zu.xml
+³   ³   ³   ³   ³   ³           
+³   ³   ³   ³   ³   ÀÄÄÄstripped.dir
+³   ³   ³   ³   ÃÄÄÄmergeDebugShaders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄpackageDebug
+³   ³   ³   ³   ³   ÀÄÄÄtmp
+³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³           ³   dex-renamer-state.txt
+³   ³   ³   ³   ³           ³   
+³   ³   ³   ³   ³           ÀÄÄÄzip-cache
+³   ³   ³   ³   ³                   androidResources
+³   ³   ³   ³   ³                   javaResources0
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÃÄÄÄpackageDebugAndroidTest
+³   ³   ³   ³   ³   ÀÄÄÄtmp
+³   ³   ³   ³   ³       ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³   ³           ³   dex-renamer-state.txt
+³   ³   ³   ³   ³           ³   
+³   ³   ³   ³   ³           ÀÄÄÄzip-cache
+³   ³   ³   ³   ³                   androidResources
+³   ³   ³   ³   ³                   javaResources0
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÃÄÄÄprocessDebugAndroidTestResources
+³   ³   ³   ³   ÀÄÄÄprocessDebugResources
+³   ³   ³   ÃÄÄÄjavac
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄclasses
+³   ³   ³   ³   ³       ÀÄÄÄcom
+³   ³   ³   ³   ³           ÀÄÄÄjoshuatz
+³   ³   ³   ³   ³               ÀÄÄÄnfceinkwriter
+³   ³   ³   ³   ³                       BuildConfig.class
+³   ³   ³   ³   ³                       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄclasses
+³   ³   ³   ³           ÀÄÄÄcom
+³   ³   ³   ³               ÀÄÄÄjoshuatz
+³   ³   ³   ³                   ÀÄÄÄnfceinkwriter
+³   ³   ³   ³                       ÀÄÄÄtest
+³   ³   ³   ³                               BuildConfig.class
+³   ³   ³   ³                               
+³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       manifest-merger-blame-debug-report.txt
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           manifest-merger-blame-debug-androidTest-report.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_assets
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³       ÀÄÄÄeditors
+³   ³   ³   ³   ³           ³   common.css
+³   ³   ³   ³   ³           ³   common.js
+³   ³   ³   ³   ³           ³   
+³   ³   ³   ³   ³           ÃÄÄÄtext
+³   ³   ³   ³   ³           ³       index.html
+³   ³   ³   ³   ³           ³       main.js
+³   ³   ³   ³   ³           ³       style.css
+³   ³   ³   ³   ³           ³       
+³   ³   ³   ³   ³           ÀÄÄÄwysiwyg
+³   ³   ³   ³   ³                   main.js
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_java_res
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       out.jar
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           out.jar
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_jni_libs
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_manifests
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄmerged_native_libs
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_res_blame_folder
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³       ÃÄÄÄmulti-v2
+³   ³   ³   ³   ³       ³       debug.json
+³   ³   ³   ³   ³       ³       values-af.json
+³   ³   ³   ³   ³       ³       values-am.json
+³   ³   ³   ³   ³       ³       values-ar.json
+³   ³   ³   ³   ³       ³       values-as.json
+³   ³   ³   ³   ³       ³       values-az.json
+³   ³   ³   ³   ³       ³       values-b+sr+Latn.json
+³   ³   ³   ³   ³       ³       values-be.json
+³   ³   ³   ³   ³       ³       values-bg.json
+³   ³   ³   ³   ³       ³       values-bn.json
+³   ³   ³   ³   ³       ³       values-bs.json
+³   ³   ³   ³   ³       ³       values-ca.json
+³   ³   ³   ³   ³       ³       values-cs.json
+³   ³   ³   ³   ³       ³       values-da.json
+³   ³   ³   ³   ³       ³       values-de.json
+³   ³   ³   ³   ³       ³       values-el.json
+³   ³   ³   ³   ³       ³       values-en-rAU.json
+³   ³   ³   ³   ³       ³       values-en-rCA.json
+³   ³   ³   ³   ³       ³       values-en-rGB.json
+³   ³   ³   ³   ³       ³       values-en-rIN.json
+³   ³   ³   ³   ³       ³       values-en-rXC.json
+³   ³   ³   ³   ³       ³       values-es-rGT.json
+³   ³   ³   ³   ³       ³       values-es-rUS.json
+³   ³   ³   ³   ³       ³       values-es.json
+³   ³   ³   ³   ³       ³       values-et.json
+³   ³   ³   ³   ³       ³       values-eu.json
+³   ³   ³   ³   ³       ³       values-fa.json
+³   ³   ³   ³   ³       ³       values-fi.json
+³   ³   ³   ³   ³       ³       values-fr-rCA.json
+³   ³   ³   ³   ³       ³       values-fr.json
+³   ³   ³   ³   ³       ³       values-gl.json
+³   ³   ³   ³   ³       ³       values-gu.json
+³   ³   ³   ³   ³       ³       values-h360dp-land-v13.json
+³   ³   ³   ³   ³       ³       values-h480dp-land-v13.json
+³   ³   ³   ³   ³       ³       values-h720dp-v13.json
+³   ³   ³   ³   ³       ³       values-hdpi-v4.json
+³   ³   ³   ³   ³       ³       values-he.json
+³   ³   ³   ³   ³       ³       values-hi.json
+³   ³   ³   ³   ³       ³       values-hr.json
+³   ³   ³   ³   ³       ³       values-hu.json
+³   ³   ³   ³   ³       ³       values-hy.json
+³   ³   ³   ³   ³       ³       values-id.json
+³   ³   ³   ³   ³       ³       values-in.json
+³   ³   ³   ³   ³       ³       values-is.json
+³   ³   ³   ³   ³       ³       values-it.json
+³   ³   ³   ³   ³       ³       values-iw.json
+³   ³   ³   ³   ³       ³       values-ja.json
+³   ³   ³   ³   ³       ³       values-ka.json
+³   ³   ³   ³   ³       ³       values-kk.json
+³   ³   ³   ³   ³       ³       values-km.json
+³   ³   ³   ³   ³       ³       values-kn.json
+³   ³   ³   ³   ³       ³       values-ko.json
+³   ³   ³   ³   ³       ³       values-ky.json
+³   ³   ³   ³   ³       ³       values-land.json
+³   ³   ³   ³   ³       ³       values-large-v4.json
+³   ³   ³   ³   ³       ³       values-ldltr-v21.json
+³   ³   ³   ³   ³       ³       values-lo.json
+³   ³   ³   ³   ³       ³       values-lt.json
+³   ³   ³   ³   ³       ³       values-lv.json
+³   ³   ³   ³   ³       ³       values-mk.json
+³   ³   ³   ³   ³       ³       values-ml.json
+³   ³   ³   ³   ³       ³       values-mn.json
+³   ³   ³   ³   ³       ³       values-mr.json
+³   ³   ³   ³   ³       ³       values-ms.json
+³   ³   ³   ³   ³       ³       values-my.json
+³   ³   ³   ³   ³       ³       values-nb.json
+³   ³   ³   ³   ³       ³       values-ne.json
+³   ³   ³   ³   ³       ³       values-night-v8.json
+³   ³   ³   ³   ³       ³       values-nl.json
+³   ³   ³   ³   ³       ³       values-or.json
+³   ³   ³   ³   ³       ³       values-pa.json
+³   ³   ³   ³   ³       ³       values-pl.json
+³   ³   ³   ³   ³       ³       values-port.json
+³   ³   ³   ³   ³       ³       values-pt-rBR.json
+³   ³   ³   ³   ³       ³       values-pt-rPT.json
+³   ³   ³   ³   ³       ³       values-pt.json
+³   ³   ³   ³   ³       ³       values-ro.json
+³   ³   ³   ³   ³       ³       values-ru-rRU.json
+³   ³   ³   ³   ³       ³       values-ru.json
+³   ³   ³   ³   ³       ³       values-si.json
+³   ³   ³   ³   ³       ³       values-sk.json
+³   ³   ³   ³   ³       ³       values-sl.json
+³   ³   ³   ³   ³       ³       values-small-v4.json
+³   ³   ³   ³   ³       ³       values-sq.json
+³   ³   ³   ³   ³       ³       values-sr.json
+³   ³   ³   ³   ³       ³       values-sv.json
+³   ³   ³   ³   ³       ³       values-sw.json
+³   ³   ³   ³   ³       ³       values-sw600dp-v13.json
+³   ³   ³   ³   ³       ³       values-ta.json
+³   ³   ³   ³   ³       ³       values-te.json
+³   ³   ³   ³   ³       ³       values-th.json
+³   ³   ³   ³   ³       ³       values-tl.json
+³   ³   ³   ³   ³       ³       values-tr.json
+³   ³   ³   ³   ³       ³       values-uk.json
+³   ³   ³   ³   ³       ³       values-ur.json
+³   ³   ³   ³   ³       ³       values-uz.json
+³   ³   ³   ³   ³       ³       values-v16.json
+³   ³   ³   ³   ³       ³       values-v17.json
+³   ³   ³   ³   ³       ³       values-v18.json
+³   ³   ³   ³   ³       ³       values-v21.json
+³   ³   ³   ³   ³       ³       values-v22.json
+³   ³   ³   ³   ³       ³       values-v23.json
+³   ³   ³   ³   ³       ³       values-v24.json
+³   ³   ³   ³   ³       ³       values-v25.json
+³   ³   ³   ³   ³       ³       values-v26.json
+³   ³   ³   ³   ³       ³       values-v28.json
+³   ³   ³   ³   ³       ³       values-vi.json
+³   ³   ³   ³   ³       ³       values-w360dp-port-v13.json
+³   ³   ³   ³   ³       ³       values-w480dp-port-v13.json
+³   ³   ³   ³   ³       ³       values-watch-v20.json
+³   ³   ³   ³   ³       ³       values-watch-v21.json
+³   ³   ³   ³   ³       ³       values-xlarge-v4.json
+³   ³   ³   ³   ³       ³       values-zh-rCN.json
+³   ³   ³   ³   ³       ³       values-zh-rHK.json
+³   ³   ³   ³   ³       ³       values-zh-rTW.json
+³   ³   ³   ³   ³       ³       values-zh.json
+³   ³   ³   ³   ³       ³       values-zu.json
+³   ³   ³   ³   ³       ³       values.json
+³   ³   ³   ³   ³       ³       
+³   ³   ³   ³   ³       ÀÄÄÄsingle
+³   ³   ³   ³   ³               debug.json
+³   ³   ³   ³   ³               
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_shaders
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmixed_scope_dex_archive
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           navigation.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄpackaged_manifests
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       AndroidManifest.xml
+³   ³   ³   ³   ³       output-metadata.json
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           AndroidManifest.xml
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄprocessed_res
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³   ³           resources-debug.ap_
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               resources-debugAndroidTest.ap_
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄproject_dex_archive
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ³       ³   f41ff4f5c9911d32cda96417307303d2f9a2c3a84de69143ab894b8640454c43_0.jar
+³   ³   ³   ³   ³       ³   f41ff4f5c9911d32cda96417307303d2f9a2c3a84de69143ab894b8640454c43_1.jar
+³   ³   ³   ³   ³       ³   
+³   ³   ³   ³   ³       ÃÄÄÄcom
+³   ³   ³   ³   ³       ³   ÀÄÄÄjoshuatz
+³   ³   ³   ³   ³       ³       ÀÄÄÄnfceinkwriter
+³   ³   ³   ³   ³       ³               BuildConfig.dex
+³   ³   ³   ³   ³       ³               Constants.dex
+³   ³   ³   ³   ³       ³               ConstantsKt.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$getAndFlashGraphic$1.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$getAndFlashGraphic$2.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$getBitmapFromWebView$1.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$getBitmapFromWebView$2$1.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$onCreate$1.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$onCreate$2$1.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase$onCreate$2.dex
+³   ³   ³   ³   ³       ³               GraphicEditorBase.dex
+³   ³   ³   ³   ³       ³               IntentKeys.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$1$1.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$1.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$2.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$3.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$4.dex
+³   ³   ³   ³   ³       ³               MainActivity$onCreate$5.dex
+³   ³   ³   ³   ³       ³               MainActivity.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$flashBitmap$2$1.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$flashBitmap$2$2.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$flashBitmap$2.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$flashBitmap$progressCheckCallback$1.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$mNfcCheckCallback$1.dex
+³   ³   ³   ³   ³       ³               NfcFlasher$onNewIntent$1.dex
+³   ³   ³   ³   ³       ³               NfcFlasher.dex
+³   ³   ³   ³   ³       ³               Preferences$showScreenSizePicker$1.dex
+³   ³   ³   ³   ³       ³               Preferences.dex
+³   ³   ³   ³   ³       ³               PrefKeys.dex
+³   ³   ³   ³   ³       ³               TextEditor.dex
+³   ³   ³   ³   ³       ³               Utils$Companion$evaluateJavascript$2$1.dex
+³   ³   ³   ³   ³       ³               Utils$Companion.dex
+³   ³   ³   ³   ³       ³               Utils.dex
+³   ³   ³   ³   ³       ³               WysiwygEditor.dex
+³   ³   ³   ³   ³       ³               
+³   ³   ³   ³   ³       ÀÄÄÄwaveshare
+³   ³   ³   ³   ³           ÀÄÄÄfeng
+³   ³   ³   ³   ³               ÀÄÄÄnfctag
+³   ³   ³   ³   ³                   ÀÄÄÄactivity
+³   ³   ³   ³   ³                           FlashResult.dex
+³   ³   ³   ³   ³                           WaveShareHandler$sendBitmap$1.dex
+³   ³   ³   ³   ³                           WaveShareHandler.dex
+³   ³   ³   ³   ³                           
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ³   fba561ff9fc6bf9a739fafeae8f2b6fd02483cbd6fb309265f3c1b7d0dd13bed_0.jar
+³   ³   ³   ³           ³   fba561ff9fc6bf9a739fafeae8f2b6fd02483cbd6fb309265f3c1b7d0dd13bed_1.jar
+³   ³   ³   ³           ³   
+³   ³   ³   ³           ÀÄÄÄcom
+³   ³   ³   ³               ÀÄÄÄjoshuatz
+³   ³   ³   ³                   ÀÄÄÄnfceinkwriter
+³   ³   ³   ³                       ³   ExampleInstrumentedTest.dex
+³   ³   ³   ³                       ³   
+³   ³   ³   ³                       ÀÄÄÄtest
+³   ³   ³   ³                               BuildConfig.dex
+³   ³   ³   ³                               
+³   ³   ³   ÃÄÄÄres
+³   ³   ³   ³   ÀÄÄÄmerged
+³   ³   ³   ³       ÃÄÄÄandroidTest
+³   ³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³               drawable-anydpi-v21_ic_launcher_background.xml.flat
+³   ³   ³   ³               drawable-anydpi-v24_ic_launcher_foreground.xml.flat
+³   ³   ³   ³               drawable-hdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-ldpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-mdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xxhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               drawable-xxxhdpi_ic_launcher_background.png.flat
+³   ³   ³   ³               layout_activity_main.xml.flat
+³   ³   ³   ³               layout_activity_nfc_flasher.xml.flat
+³   ³   ³   ³               layout_activity_text_editor.xml.flat
+³   ³   ³   ³               layout_activity_wysiwyg_editor.xml.flat
+³   ³   ³   ³               layout_nfc_write_dialog.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher_round.xml.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher.png.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher_round.png.flat
+³   ³   ³   ³               values-af_values-af.arsc.flat
+³   ³   ³   ³               values-am_values-am.arsc.flat
+³   ³   ³   ³               values-ar_values-ar.arsc.flat
+³   ³   ³   ³               values-as_values-as.arsc.flat
+³   ³   ³   ³               values-az_values-az.arsc.flat
+³   ³   ³   ³               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+³   ³   ³   ³               values-be_values-be.arsc.flat
+³   ³   ³   ³               values-bg_values-bg.arsc.flat
+³   ³   ³   ³               values-bn_values-bn.arsc.flat
+³   ³   ³   ³               values-bs_values-bs.arsc.flat
+³   ³   ³   ³               values-ca_values-ca.arsc.flat
+³   ³   ³   ³               values-cs_values-cs.arsc.flat
+³   ³   ³   ³               values-da_values-da.arsc.flat
+³   ³   ³   ³               values-de_values-de.arsc.flat
+³   ³   ³   ³               values-el_values-el.arsc.flat
+³   ³   ³   ³               values-en-rAU_values-en-rAU.arsc.flat
+³   ³   ³   ³               values-en-rCA_values-en-rCA.arsc.flat
+³   ³   ³   ³               values-en-rGB_values-en-rGB.arsc.flat
+³   ³   ³   ³               values-en-rIN_values-en-rIN.arsc.flat
+³   ³   ³   ³               values-en-rXC_values-en-rXC.arsc.flat
+³   ³   ³   ³               values-es-rGT_values-es-rGT.arsc.flat
+³   ³   ³   ³               values-es-rUS_values-es-rUS.arsc.flat
+³   ³   ³   ³               values-es_values-es.arsc.flat
+³   ³   ³   ³               values-et_values-et.arsc.flat
+³   ³   ³   ³               values-eu_values-eu.arsc.flat
+³   ³   ³   ³               values-fa_values-fa.arsc.flat
+³   ³   ³   ³               values-fi_values-fi.arsc.flat
+³   ³   ³   ³               values-fr-rCA_values-fr-rCA.arsc.flat
+³   ³   ³   ³               values-fr_values-fr.arsc.flat
+³   ³   ³   ³               values-gl_values-gl.arsc.flat
+³   ³   ³   ³               values-gu_values-gu.arsc.flat
+³   ³   ³   ³               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h720dp-v13_values-h720dp-v13.arsc.flat
+³   ³   ³   ³               values-hdpi-v4_values-hdpi-v4.arsc.flat
+³   ³   ³   ³               values-he_values-he.arsc.flat
+³   ³   ³   ³               values-hi_values-hi.arsc.flat
+³   ³   ³   ³               values-hr_values-hr.arsc.flat
+³   ³   ³   ³               values-hu_values-hu.arsc.flat
+³   ³   ³   ³               values-hy_values-hy.arsc.flat
+³   ³   ³   ³               values-id_values-id.arsc.flat
+³   ³   ³   ³               values-in_values-in.arsc.flat
+³   ³   ³   ³               values-is_values-is.arsc.flat
+³   ³   ³   ³               values-it_values-it.arsc.flat
+³   ³   ³   ³               values-iw_values-iw.arsc.flat
+³   ³   ³   ³               values-ja_values-ja.arsc.flat
+³   ³   ³   ³               values-ka_values-ka.arsc.flat
+³   ³   ³   ³               values-kk_values-kk.arsc.flat
+³   ³   ³   ³               values-km_values-km.arsc.flat
+³   ³   ³   ³               values-kn_values-kn.arsc.flat
+³   ³   ³   ³               values-ko_values-ko.arsc.flat
+³   ³   ³   ³               values-ky_values-ky.arsc.flat
+³   ³   ³   ³               values-land_values-land.arsc.flat
+³   ³   ³   ³               values-large-v4_values-large-v4.arsc.flat
+³   ³   ³   ³               values-ldltr-v21_values-ldltr-v21.arsc.flat
+³   ³   ³   ³               values-lo_values-lo.arsc.flat
+³   ³   ³   ³               values-lt_values-lt.arsc.flat
+³   ³   ³   ³               values-lv_values-lv.arsc.flat
+³   ³   ³   ³               values-mk_values-mk.arsc.flat
+³   ³   ³   ³               values-ml_values-ml.arsc.flat
+³   ³   ³   ³               values-mn_values-mn.arsc.flat
+³   ³   ³   ³               values-mr_values-mr.arsc.flat
+³   ³   ³   ³               values-ms_values-ms.arsc.flat
+³   ³   ³   ³               values-my_values-my.arsc.flat
+³   ³   ³   ³               values-nb_values-nb.arsc.flat
+³   ³   ³   ³               values-ne_values-ne.arsc.flat
+³   ³   ³   ³               values-night-v8_values-night-v8.arsc.flat
+³   ³   ³   ³               values-nl_values-nl.arsc.flat
+³   ³   ³   ³               values-or_values-or.arsc.flat
+³   ³   ³   ³               values-pa_values-pa.arsc.flat
+³   ³   ³   ³               values-pl_values-pl.arsc.flat
+³   ³   ³   ³               values-port_values-port.arsc.flat
+³   ³   ³   ³               values-pt-rBR_values-pt-rBR.arsc.flat
+³   ³   ³   ³               values-pt-rPT_values-pt-rPT.arsc.flat
+³   ³   ³   ³               values-pt_values-pt.arsc.flat
+³   ³   ³   ³               values-ro_values-ro.arsc.flat
+³   ³   ³   ³               values-ru-rRU_values-ru-rRU.arsc.flat
+³   ³   ³   ³               values-ru_values-ru.arsc.flat
+³   ³   ³   ³               values-si_values-si.arsc.flat
+³   ³   ³   ³               values-sk_values-sk.arsc.flat
+³   ³   ³   ³               values-sl_values-sl.arsc.flat
+³   ³   ³   ³               values-small-v4_values-small-v4.arsc.flat
+³   ³   ³   ³               values-sq_values-sq.arsc.flat
+³   ³   ³   ³               values-sr_values-sr.arsc.flat
+³   ³   ³   ³               values-sv_values-sv.arsc.flat
+³   ³   ³   ³               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+³   ³   ³   ³               values-sw_values-sw.arsc.flat
+³   ³   ³   ³               values-ta_values-ta.arsc.flat
+³   ³   ³   ³               values-te_values-te.arsc.flat
+³   ³   ³   ³               values-th_values-th.arsc.flat
+³   ³   ³   ³               values-tl_values-tl.arsc.flat
+³   ³   ³   ³               values-tr_values-tr.arsc.flat
+³   ³   ³   ³               values-uk_values-uk.arsc.flat
+³   ³   ³   ³               values-ur_values-ur.arsc.flat
+³   ³   ³   ³               values-uz_values-uz.arsc.flat
+³   ³   ³   ³               values-v16_values-v16.arsc.flat
+³   ³   ³   ³               values-v17_values-v17.arsc.flat
+³   ³   ³   ³               values-v18_values-v18.arsc.flat
+³   ³   ³   ³               values-v21_values-v21.arsc.flat
+³   ³   ³   ³               values-v22_values-v22.arsc.flat
+³   ³   ³   ³               values-v23_values-v23.arsc.flat
+³   ³   ³   ³               values-v24_values-v24.arsc.flat
+³   ³   ³   ³               values-v25_values-v25.arsc.flat
+³   ³   ³   ³               values-v26_values-v26.arsc.flat
+³   ³   ³   ³               values-v28_values-v28.arsc.flat
+³   ³   ³   ³               values-vi_values-vi.arsc.flat
+³   ³   ³   ³               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+³   ³   ³   ³               values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat
+³   ³   ³   ³               values-watch-v20_values-watch-v20.arsc.flat
+³   ³   ³   ³               values-watch-v21_values-watch-v21.arsc.flat
+³   ³   ³   ³               values-xlarge-v4_values-xlarge-v4.arsc.flat
+³   ³   ³   ³               values-zh-rCN_values-zh-rCN.arsc.flat
+³   ³   ³   ³               values-zh-rHK_values-zh-rHK.arsc.flat
+³   ³   ³   ³               values-zh-rTW_values-zh-rTW.arsc.flat
+³   ³   ³   ³               values-zh_values-zh.arsc.flat
+³   ³   ³   ³               values-zu_values-zu.arsc.flat
+³   ³   ³   ³               values_values.arsc.flat
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄruntime_symbol_list
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       R.txt
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           R.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄsigning_config_versions
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       signing-config-versions.json
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           signing-config-versions.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄsub_project_dex_archive
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÀÄÄÄout
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³       package-aware-r.txt
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÀÄÄÄdebugAndroidTest
+³   ³   ³   ³           package-aware-r.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄtmp
+³   ³   ³   ³   ÀÄÄÄmanifest
+³   ³   ³   ³       ÀÄÄÄandroidTest
+³   ³   ³   ³           ÀÄÄÄdebug
+³   ³   ³   ÀÄÄÄvalidate_signing_config
+³   ³   ³       ÃÄÄÄdebug
+³   ³   ³       ÀÄÄÄdebugAndroidTest
+³   ³   ÃÄÄÄkotlin
+³   ³   ³   ÃÄÄÄcompileDebugAndroidTestKotlin
+³   ³   ³   ³   ³   build-history.bin
+³   ³   ³   ³   ³   last-build.bin
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄcaches-jvm
+³   ³   ³   ³       ÃÄÄÄinputs
+³   ³   ³   ³       ³       source-to-output.tab
+³   ³   ³   ³       ³       source-to-output.tab.keystream
+³   ³   ³   ³       ³       source-to-output.tab.keystream.len
+³   ³   ³   ³       ³       source-to-output.tab.len
+³   ³   ³   ³       ³       source-to-output.tab.values.at
+³   ³   ³   ³       ³       source-to-output.tab_i
+³   ³   ³   ³       ³       source-to-output.tab_i.len
+³   ³   ³   ³       ³       
+³   ³   ³   ³       ÃÄÄÄjvm
+³   ³   ³   ³       ³   ÀÄÄÄkotlin
+³   ³   ³   ³       ³           class-attributes.tab
+³   ³   ³   ³       ³           class-attributes.tab.keystream
+³   ³   ³   ³       ³           class-attributes.tab.keystream.len
+³   ³   ³   ³       ³           class-attributes.tab.len
+³   ³   ³   ³       ³           class-attributes.tab.values.at
+³   ³   ³   ³       ³           class-attributes.tab_i
+³   ³   ³   ³       ³           class-attributes.tab_i.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.keystream
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.keystream.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.values.at
+³   ³   ³   ³       ³           class-fq-name-to-source.tab_i
+³   ³   ³   ³       ³           class-fq-name-to-source.tab_i.len
+³   ³   ³   ³       ³           internal-name-to-source.tab
+³   ³   ³   ³       ³           internal-name-to-source.tab.keystream
+³   ³   ³   ³       ³           internal-name-to-source.tab.keystream.len
+³   ³   ³   ³       ³           internal-name-to-source.tab.len
+³   ³   ³   ³       ³           internal-name-to-source.tab.values.at
+³   ³   ³   ³       ³           internal-name-to-source.tab_i
+³   ³   ³   ³       ³           internal-name-to-source.tab_i.len
+³   ³   ³   ³       ³           proto.tab
+³   ³   ³   ³       ³           proto.tab.keystream
+³   ³   ³   ³       ³           proto.tab.keystream.len
+³   ³   ³   ³       ³           proto.tab.len
+³   ³   ³   ³       ³           proto.tab.values.at
+³   ³   ³   ³       ³           proto.tab_i
+³   ³   ³   ³       ³           proto.tab_i.len
+³   ³   ³   ³       ³           source-to-classes.tab
+³   ³   ³   ³       ³           source-to-classes.tab.keystream
+³   ³   ³   ³       ³           source-to-classes.tab.keystream.len
+³   ³   ³   ³       ³           source-to-classes.tab.len
+³   ³   ³   ³       ³           source-to-classes.tab.values.at
+³   ³   ³   ³       ³           source-to-classes.tab_i
+³   ³   ³   ³       ³           source-to-classes.tab_i.len
+³   ³   ³   ³       ³           
+³   ³   ³   ³       ÀÄÄÄlookups
+³   ³   ³   ³               counters.tab
+³   ³   ³   ³               file-to-id.tab
+³   ³   ³   ³               file-to-id.tab.keystream
+³   ³   ³   ³               file-to-id.tab.keystream.len
+³   ³   ³   ³               file-to-id.tab.len
+³   ³   ³   ³               file-to-id.tab.values.at
+³   ³   ³   ³               file-to-id.tab_i
+³   ³   ³   ³               file-to-id.tab_i.len
+³   ³   ³   ³               id-to-file.tab
+³   ³   ³   ³               id-to-file.tab.keystream
+³   ³   ³   ³               id-to-file.tab.keystream.len
+³   ³   ³   ³               id-to-file.tab.len
+³   ³   ³   ³               id-to-file.tab.values.at
+³   ³   ³   ³               lookups.tab
+³   ³   ³   ³               lookups.tab.keystream
+³   ³   ³   ³               lookups.tab.keystream.len
+³   ³   ³   ³               lookups.tab.len
+³   ³   ³   ³               lookups.tab.values.at
+³   ³   ³   ³               lookups.tab_i
+³   ³   ³   ³               lookups.tab_i.len
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcompileDebugKotlin
+³   ³   ³   ³   ³   build-history.bin
+³   ³   ³   ³   ³   last-build.bin
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄcaches-jvm
+³   ³   ³   ³       ÃÄÄÄinputs
+³   ³   ³   ³       ³       source-to-output.tab
+³   ³   ³   ³       ³       source-to-output.tab.keystream
+³   ³   ³   ³       ³       source-to-output.tab.keystream.len
+³   ³   ³   ³       ³       source-to-output.tab.len
+³   ³   ³   ³       ³       source-to-output.tab.values.at
+³   ³   ³   ³       ³       source-to-output.tab_i
+³   ³   ³   ³       ³       source-to-output.tab_i.len
+³   ³   ³   ³       ³       
+³   ³   ³   ³       ÃÄÄÄjvm
+³   ³   ³   ³       ³   ÀÄÄÄkotlin
+³   ³   ³   ³       ³           class-attributes.tab
+³   ³   ³   ³       ³           class-attributes.tab.keystream
+³   ³   ³   ³       ³           class-attributes.tab.keystream.len
+³   ³   ³   ³       ³           class-attributes.tab.len
+³   ³   ³   ³       ³           class-attributes.tab.values.at
+³   ³   ³   ³       ³           class-attributes.tab_i
+³   ³   ³   ³       ³           class-attributes.tab_i.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.keystream
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.keystream.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.len
+³   ³   ³   ³       ³           class-fq-name-to-source.tab.values.at
+³   ³   ³   ³       ³           class-fq-name-to-source.tab_i
+³   ³   ³   ³       ³           class-fq-name-to-source.tab_i.len
+³   ³   ³   ³       ³           constants.tab
+³   ³   ³   ³       ³           constants.tab.keystream
+³   ³   ³   ³       ³           constants.tab.keystream.len
+³   ³   ³   ³       ³           constants.tab.len
+³   ³   ³   ³       ³           constants.tab.values.at
+³   ³   ³   ³       ³           constants.tab_i
+³   ³   ³   ³       ³           constants.tab_i.len
+³   ³   ³   ³       ³           internal-name-to-source.tab
+³   ³   ³   ³       ³           internal-name-to-source.tab.keystream
+³   ³   ³   ³       ³           internal-name-to-source.tab.keystream.len
+³   ³   ³   ³       ³           internal-name-to-source.tab.len
+³   ³   ³   ³       ³           internal-name-to-source.tab.values.at
+³   ³   ³   ³       ³           internal-name-to-source.tab_i
+³   ³   ³   ³       ³           internal-name-to-source.tab_i.len
+³   ³   ³   ³       ³           package-parts.tab
+³   ³   ³   ³       ³           package-parts.tab.keystream
+³   ³   ³   ³       ³           package-parts.tab.keystream.len
+³   ³   ³   ³       ³           package-parts.tab.len
+³   ³   ³   ³       ³           package-parts.tab.values.at
+³   ³   ³   ³       ³           package-parts.tab_i
+³   ³   ³   ³       ³           package-parts.tab_i.len
+³   ³   ³   ³       ³           proto.tab
+³   ³   ³   ³       ³           proto.tab.keystream
+³   ³   ³   ³       ³           proto.tab.keystream.len
+³   ³   ³   ³       ³           proto.tab.len
+³   ³   ³   ³       ³           proto.tab.values.at
+³   ³   ³   ³       ³           proto.tab_i
+³   ³   ³   ³       ³           proto.tab_i.len
+³   ³   ³   ³       ³           source-to-classes.tab
+³   ³   ³   ³       ³           source-to-classes.tab.keystream
+³   ³   ³   ³       ³           source-to-classes.tab.keystream.len
+³   ³   ³   ³       ³           source-to-classes.tab.len
+³   ³   ³   ³       ³           source-to-classes.tab.values.at
+³   ³   ³   ³       ³           source-to-classes.tab_i
+³   ³   ³   ³       ³           source-to-classes.tab_i.len
+³   ³   ³   ³       ³           subtypes.tab
+³   ³   ³   ³       ³           subtypes.tab.keystream
+³   ³   ³   ³       ³           subtypes.tab.keystream.len
+³   ³   ³   ³       ³           subtypes.tab.len
+³   ³   ³   ³       ³           subtypes.tab.values.at
+³   ³   ³   ³       ³           subtypes.tab_i
+³   ³   ³   ³       ³           subtypes.tab_i.len
+³   ³   ³   ³       ³           supertypes.tab
+³   ³   ³   ³       ³           supertypes.tab.keystream
+³   ³   ³   ³       ³           supertypes.tab.keystream.len
+³   ³   ³   ³       ³           supertypes.tab.len
+³   ³   ³   ³       ³           supertypes.tab.values.at
+³   ³   ³   ³       ³           supertypes.tab_i
+³   ³   ³   ³       ³           supertypes.tab_i.len
+³   ³   ³   ³       ³           
+³   ³   ³   ³       ÀÄÄÄlookups
+³   ³   ³   ³               counters.tab
+³   ³   ³   ³               file-to-id.tab
+³   ³   ³   ³               file-to-id.tab.keystream
+³   ³   ³   ³               file-to-id.tab.keystream.len
+³   ³   ³   ³               file-to-id.tab.len
+³   ³   ³   ³               file-to-id.tab.values.at
+³   ³   ³   ³               file-to-id.tab_i
+³   ³   ³   ³               file-to-id.tab_i.len
+³   ³   ³   ³               id-to-file.tab
+³   ³   ³   ³               id-to-file.tab.keystream
+³   ³   ³   ³               id-to-file.tab.keystream.len
+³   ³   ³   ³               id-to-file.tab.len
+³   ³   ³   ³               id-to-file.tab.values.at
+³   ³   ³   ³               id-to-file.tab_i
+³   ³   ³   ³               id-to-file.tab_i.len
+³   ³   ³   ³               lookups.tab
+³   ³   ³   ³               lookups.tab.keystream
+³   ³   ³   ³               lookups.tab.keystream.len
+³   ³   ³   ³               lookups.tab.len
+³   ³   ³   ³               lookups.tab.values.at
+³   ³   ³   ³               lookups.tab_i
+³   ³   ³   ³               lookups.tab_i.len
+³   ³   ³   ³               
+³   ³   ³   ÀÄÄÄcompileDebugUnitTestKotlin
+³   ³   ³       ³   build-history.bin
+³   ³   ³       ³   last-build.bin
+³   ³   ³       ³   
+³   ³   ³       ÀÄÄÄcaches-jvm
+³   ³   ³           ÃÄÄÄinputs
+³   ³   ³           ³       source-to-output.tab
+³   ³   ³           ³       source-to-output.tab.keystream
+³   ³   ³           ³       source-to-output.tab.keystream.len
+³   ³   ³           ³       source-to-output.tab.len
+³   ³   ³           ³       source-to-output.tab.values.at
+³   ³   ³           ³       source-to-output.tab_i
+³   ³   ³           ³       source-to-output.tab_i.len
+³   ³   ³           ³       
+³   ³   ³           ÃÄÄÄjvm
+³   ³   ³           ³   ÀÄÄÄkotlin
+³   ³   ³           ³           class-attributes.tab
+³   ³   ³           ³           class-attributes.tab.keystream
+³   ³   ³           ³           class-attributes.tab.keystream.len
+³   ³   ³           ³           class-attributes.tab.len
+³   ³   ³           ³           class-attributes.tab.values.at
+³   ³   ³           ³           class-attributes.tab_i
+³   ³   ³           ³           class-attributes.tab_i.len
+³   ³   ³           ³           class-fq-name-to-source.tab
+³   ³   ³           ³           class-fq-name-to-source.tab.keystream
+³   ³   ³           ³           class-fq-name-to-source.tab.keystream.len
+³   ³   ³           ³           class-fq-name-to-source.tab.len
+³   ³   ³           ³           class-fq-name-to-source.tab.values.at
+³   ³   ³           ³           class-fq-name-to-source.tab_i
+³   ³   ³           ³           class-fq-name-to-source.tab_i.len
+³   ³   ³           ³           internal-name-to-source.tab
+³   ³   ³           ³           internal-name-to-source.tab.keystream
+³   ³   ³           ³           internal-name-to-source.tab.keystream.len
+³   ³   ³           ³           internal-name-to-source.tab.len
+³   ³   ³           ³           internal-name-to-source.tab.values.at
+³   ³   ³           ³           internal-name-to-source.tab_i
+³   ³   ³           ³           internal-name-to-source.tab_i.len
+³   ³   ³           ³           proto.tab
+³   ³   ³           ³           proto.tab.keystream
+³   ³   ³           ³           proto.tab.keystream.len
+³   ³   ³           ³           proto.tab.len
+³   ³   ³           ³           proto.tab.values.at
+³   ³   ³           ³           proto.tab_i
+³   ³   ³           ³           proto.tab_i.len
+³   ³   ³           ³           source-to-classes.tab
+³   ³   ³           ³           source-to-classes.tab.keystream
+³   ³   ³           ³           source-to-classes.tab.keystream.len
+³   ³   ³           ³           source-to-classes.tab.len
+³   ³   ³           ³           source-to-classes.tab.values.at
+³   ³   ³           ³           source-to-classes.tab_i
+³   ³   ³           ³           source-to-classes.tab_i.len
+³   ³   ³           ³           
+³   ³   ³           ÀÄÄÄlookups
+³   ³   ³                   counters.tab
+³   ³   ³                   file-to-id.tab
+³   ³   ³                   file-to-id.tab.keystream
+³   ³   ³                   file-to-id.tab.keystream.len
+³   ³   ³                   file-to-id.tab.len
+³   ³   ³                   file-to-id.tab.values.at
+³   ³   ³                   file-to-id.tab_i
+³   ³   ³                   file-to-id.tab_i.len
+³   ³   ³                   id-to-file.tab
+³   ³   ³                   id-to-file.tab.keystream
+³   ³   ³                   id-to-file.tab.keystream.len
+³   ³   ³                   id-to-file.tab.len
+³   ³   ³                   id-to-file.tab.values.at
+³   ³   ³                   lookups.tab
+³   ³   ³                   lookups.tab.keystream
+³   ³   ³                   lookups.tab.keystream.len
+³   ³   ³                   lookups.tab.len
+³   ³   ³                   lookups.tab.values.at
+³   ³   ³                   lookups.tab_i
+³   ³   ³                   lookups.tab_i.len
+³   ³   ³                   
+³   ³   ÃÄÄÄoutputs
+³   ³   ³   ÃÄÄÄapk
+³   ³   ³   ³   ÃÄÄÄandroidTest
+³   ³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³   ³           app-debug-androidTest.apk
+³   ³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           app-debug.apk
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÀÄÄÄlogs
+³   ³   ³           manifest-merger-debug-report.txt
+³   ³   ³           
+³   ³   ÀÄÄÄtmp
+³   ³       ÃÄÄÄcompileDebugAndroidTestJavaWithJavac
+³   ³       ³       source-classes-mapping.txt
+³   ³       ³       
+³   ³       ÃÄÄÄcompileDebugJavaWithJavac
+³   ³       ³       source-classes-mapping.txt
+³   ³       ³       
+³   ³       ÀÄÄÄkotlin-classes
+³   ³           ÃÄÄÄdebug
+³   ³           ³   ÃÄÄÄcom
+³   ³           ³   ³   ÀÄÄÄjoshuatz
+³   ³           ³   ³       ÀÄÄÄnfceinkwriter
+³   ³           ³   ³               Constants.class
+³   ³           ³   ³               ConstantsKt.class
+³   ³           ³   ³               GraphicEditorBase$getAndFlashGraphic$1.class
+³   ³           ³   ³               GraphicEditorBase$getAndFlashGraphic$2.class
+³   ³           ³   ³               GraphicEditorBase$getBitmapFromWebView$1.class
+³   ³           ³   ³               GraphicEditorBase$getBitmapFromWebView$2$1.class
+³   ³           ³   ³               GraphicEditorBase$onCreate$1.class
+³   ³           ³   ³               GraphicEditorBase$onCreate$2$1.class
+³   ³           ³   ³               GraphicEditorBase$onCreate$2.class
+³   ³           ³   ³               GraphicEditorBase.class
+³   ³           ³   ³               IntentKeys.class
+³   ³           ³   ³               MainActivity$onCreate$1$1.class
+³   ³           ³   ³               MainActivity$onCreate$1.class
+³   ³           ³   ³               MainActivity$onCreate$2.class
+³   ³           ³   ³               MainActivity$onCreate$3.class
+³   ³           ³   ³               MainActivity$onCreate$4.class
+³   ³           ³   ³               MainActivity$onCreate$5.class
+³   ³           ³   ³               MainActivity.class
+³   ³           ³   ³               NfcFlasher$flashBitmap$2$1.class
+³   ³           ³   ³               NfcFlasher$flashBitmap$2$2.class
+³   ³           ³   ³               NfcFlasher$flashBitmap$2.class
+³   ³           ³   ³               NfcFlasher$flashBitmap$progressCheckCallback$1.class
+³   ³           ³   ³               NfcFlasher$mNfcCheckCallback$1.class
+³   ³           ³   ³               NfcFlasher$onNewIntent$1.class
+³   ³           ³   ³               NfcFlasher.class
+³   ³           ³   ³               Preferences$showScreenSizePicker$1.class
+³   ³           ³   ³               Preferences.class
+³   ³           ³   ³               PrefKeys.class
+³   ³           ³   ³               TextEditor.class
+³   ³           ³   ³               Utils$Companion$evaluateJavascript$2$1.class
+³   ³           ³   ³               Utils$Companion.class
+³   ³           ³   ³               Utils.class
+³   ³           ³   ³               WysiwygEditor.class
+³   ³           ³   ³               
+³   ³           ³   ÃÄÄÄMETA-INF
+³   ³           ³   ³       app_debug.kotlin_module
+³   ³           ³   ³       
+³   ³           ³   ÀÄÄÄwaveshare
+³   ³           ³       ÀÄÄÄfeng
+³   ³           ³           ÀÄÄÄnfctag
+³   ³           ³               ÀÄÄÄactivity
+³   ³           ³                       FlashResult.class
+³   ³           ³                       WaveShareHandler$sendBitmap$1.class
+³   ³           ³                       WaveShareHandler.class
+³   ³           ³                       
+³   ³           ÃÄÄÄdebugAndroidTest
+³   ³           ³   ÃÄÄÄcom
+³   ³           ³   ³   ÀÄÄÄjoshuatz
+³   ³           ³   ³       ÀÄÄÄnfceinkwriter
+³   ³           ³   ³               ExampleInstrumentedTest.class
+³   ³           ³   ³               
+³   ³           ³   ÀÄÄÄMETA-INF
+³   ³           ³           app_debug.kotlin_module
+³   ³           ³           
+³   ³           ÀÄÄÄdebugUnitTest
+³   ³               ÃÄÄÄcom
+³   ³               ³   ÀÄÄÄjoshuatz
+³   ³               ³       ÀÄÄÄnfceinkwriter
+³   ³               ³               ExampleUnitTest.class
+³   ³               ³               
+³   ³               ÀÄÄÄMETA-INF
+³   ³                       app_debug.kotlin_module
+³   ³                       
+³   ÃÄÄÄlibs
+³   ³   ÀÄÄÄwaveshare-nfc
+³   ³           NFC.jar
+³   ³           
+³   ÀÄÄÄsrc
+³       ÃÄÄÄandroidTest
+³       ³   ÀÄÄÄjava
+³       ³       ÀÄÄÄcom
+³       ³           ÀÄÄÄjoshuatz
+³       ³               ÀÄÄÄnfceinkwriter
+³       ³                       ExampleInstrumentedTest.kt
+³       ³                       
+³       ÃÄÄÄmain
+³       ³   ³   AndroidManifest.xml
+³       ³   ³   
+³       ³   ÃÄÄÄassets
+³       ³   ³   ÀÄÄÄeditors
+³       ³   ³       ³   common.css
+³       ³   ³       ³   common.js
+³       ³   ³       ³   
+³       ³   ³       ÃÄÄÄtext
+³       ³   ³       ³       index.html
+³       ³   ³       ³       main.js
+³       ³   ³       ³       style.css
+³       ³   ³       ³       
+³       ³   ³       ÀÄÄÄwysiwyg
+³       ³   ³               main.js
+³       ³   ³               
+³       ³   ÃÄÄÄjava
+³       ³   ³   ÃÄÄÄcom
+³       ³   ³   ³   ÀÄÄÄjoshuatz
+³       ³   ³   ³       ÀÄÄÄnfceinkwriter
+³       ³   ³   ³               Constants.kt
+³       ³   ³   ³               GraphicEditorBase.kt
+³       ³   ³   ³               MainActivity.kt
+³       ³   ³   ³               NfcFlasher.kt
+³       ³   ³   ³               Preferences.kt
+³       ³   ³   ³               TextEditor.kt
+³       ³   ³   ³               Utils.kt
+³       ³   ³   ³               WysiwygEditor.kt
+³       ³   ³   ³               
+³       ³   ³   ÀÄÄÄwaveshare
+³       ³   ³       ÀÄÄÄfeng
+³       ³   ³           ÀÄÄÄnfctag
+³       ³   ³               ÀÄÄÄactivity
+³       ³   ³                       WaveShareHandler.kt
+³       ³   ³                       
+³       ³   ÀÄÄÄres
+³       ³       ÃÄÄÄdrawable
+³       ³       ³       ic_launcher_background.xml
+³       ³       ³       
+³       ³       ÃÄÄÄdrawable-v24
+³       ³       ³       ic_launcher_foreground.xml
+³       ³       ³       
+³       ³       ÃÄÄÄlayout
+³       ³       ³       activity_main.xml
+³       ³       ³       activity_nfc_flasher.xml
+³       ³       ³       activity_text_editor.xml
+³       ³       ³       activity_wysiwyg_editor.xml
+³       ³       ³       nfc_write_dialog.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-anydpi-v26
+³       ³       ³       ic_launcher.xml
+³       ³       ³       ic_launcher_round.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-hdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-mdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxxhdpi
+³       ³       ³       ic_launcher.png
+³       ³       ³       ic_launcher_round.png
+³       ³       ³       
+³       ³       ÃÄÄÄvalues
+³       ³       ³       colors.xml
+³       ³       ³       strings.xml
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÀÄÄÄvalues-night
+³       ³               themes.xml
+³       ³               
+³       ÀÄÄÄtest
+³           ÀÄÄÄjava
+³               ÀÄÄÄcom
+³                   ÀÄÄÄjoshuatz
+³                       ÀÄÄÄnfceinkwriter
+³                               ExampleUnitTest.kt
+³                               
+ÃÄÄÄbuild
+³   ÀÄÄÄkotlin
+³       ÀÄÄÄsessions
+ÀÄÄÄgradle
+    ÀÄÄÄwrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            

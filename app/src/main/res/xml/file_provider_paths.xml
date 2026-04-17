@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Covers getExternalFilesDir(null) — where stability.csv lives -->
+    <external-files-path
+        name="external_files"
+        path="." />
+    <!-- Fallback: internal filesDir if external storage is unavailable -->
+    <files-path
+        name="internal_files"
+        path="." />
+</paths>

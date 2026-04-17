@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Page Title</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" type="text/css" media="screen" href="../common.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="./style.css" />
+	<script>
+		function setTextContent(newText) {
+            const textInputElement = document.getElementById('textInput');
+            if (textInputElement) {
+                textInputElement.value = newText;
+                renderToCanvas();
+            }
+        }
+	</script>
+</head>
+<body>
+<div class="inputArea">
+	<textarea class="col shadow-md" id="textInput">Write your message here!</textarea>
+</div>
+
+<div class="buttonsWrapper flex row">
+	<button class="shadow-sm" id="addLineBreak">+ Line Break</button>
+	<button class="shadow-sm" id="setInverted">Invert</button>
+	<button class="shadow-sm" id="reset">Reset</button>
+</div>
+
+<div class="canvasWrapper flex row">
+	<canvas width="296" height="128"></canvas>
+</div>
+
+<script src="../common.js"></script>
+<script src="main.js"></script>
+<script>
+	document.getElementById('reset').addEventListener('click', (e) => {
+        /* e.isTrusted == true  → user actually tapped the button
+           e.isTrusted == false → click fired by script (renderToCanvas, etc.)  */
+        if (!e.isTrusted) return;            //  ❌ ignore programmatic clicks
+
+        if (window.AndroidBridge && AndroidBridge.resetScreen) {
+            AndroidBridge.resetScreen();     // ✅ call Kotlin only on real tap
+        }
+    });
+</script>
+
+</body>
+</html>

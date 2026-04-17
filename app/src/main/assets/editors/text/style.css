@@ -1,0 +1,27 @@
+.inputArea {
+    /* Add padding so the text box doesn't touch the screen edges */
+    padding: 8px 16px;
+}
+
+#textInput {
+    min-height: 150px;
+    width: 100%; /* Make textarea take the full width of its container */
+    box-sizing: border-box; /* Important for correct width calculation */
+}
+
+.buttonsWrapper {
+    justify-content: space-evenly; /* Spread out the buttons horizontally */
+    margin-top: 8px;
+}
+
+.buttonsWrapper button {
+    padding: 4px 8px;
+    margin: 7px;
+    font-size: 1.2rem;
+}
+
+/* This rule will center the preview canvas */
+.canvasWrapper {
+    justify-content: center;
+    margin-top: 16px;
+}
