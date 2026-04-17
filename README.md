@@ -1,83 +1,80 @@
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌   1 # Adient NFC Writer V4
-   2                                                                                                                       3 An Android app for generating images and flashing them to WaveShare passive, NFC-powered e-ink displays (primary
-      target: the 2.9" model).
-   4
-   5 ## Features
-   6
-   7 - **Text editor with emoji** — compose text, render it to a 1-bit bitmap sized for the target display.
-   8 - **Image import from gallery** — pick any photo, crop/resize to the display resolution.
-   9 - **WYSIWYG graphics editor** — freehand drawing via an embedded [JSPaint](https://jspaint.app) WebView.
-  10 - **NFC flashing** — tap the phone to a WaveShare NFC e-ink tag to write the current image.
-  11 - **No special permissions** beyond NFC and Internet.
-  12
-  13 ## Supported Hardware
-  14
-  15 | Display | Resolution | Status |
-  16 |---|---|---|
-  17 | WaveShare 2.9" NFC e-paper | 296 × 128 | Primary target, tested |
-  18
-  19 Other WaveShare NFC e-paper sizes (2.13", 4.2", 7.5") are covered in the V2/V3 codebase — see [`Adient_NFC_Write
-     r_Documentation.md`](Adient_NFC_Writer_Documentation.md) for that architecture.
-  20
-  21 ## Architecture
-  22
-  23 ```
-  24 MainActivity
-  25   ├─ TextEditor        → renders text+emoji to bitmap
-  26   ├─ ImagePicker       → gallery → crop → bitmap
-  27   └─ WysiwygEditor     → JSPaint WebView → JS bridge → bitmap
-  28         │
-  29         ▼
-  30    NfcFlasher (WaveShare SDK)
-  31         │
-  32         ▼
-  33    WaveShare NFC e-paper tag
-  34 ```
-  35
-  36 - **UI:** Kotlin, Android Views
-  37 - **Graphics editor:** HTML + JavaScript (JSPaint) hosted in a `WebView`, with a JS ↔ Kotlin bridge for image ca
-     pture and canvas reset
-  38 - **NFC:** WaveShare Android SDK (`NFC.jar` + display-specific libs in `app/libs/`)
-  39
-  40 ## Build
-  41
-  42 Requirements:
-  43 - Android Studio Hedgehog or later
-  44 - Android SDK (compileSdk 33)
-  45 - WaveShare NFC SDK jars placed in `app/libs/`
-  46
-  47 ```bash
-  48 ./gradlew assembleDebug
-  49 # or, for a release build:
-  50 ./gradlew assembleRelease
-  51 ```
-  52
-  53 Install on a connected device:
-  54 ```bash
-  55 adb install -r app/build/outputs/apk/debug/app-debug.apk
-  56 ```
-  57
-  58 ## Usage
-  57
-  58 ## Usage
-  59
-  60 1. Launch the app.
-  61 2. Choose a source for your image:
-  62    - **New Text** — type, pick font size, add emoji.
-  63    - **Pick Image** — choose from gallery, crop to fit.
-  64    - **Draw** — open the JSPaint editor and sketch freehand.
-  65 3. Tap **Flash**.
-  66 4. Hold the phone against the NFC e-paper tag until the transfer completes and the display refreshes.
-  67
-  68 ## Project Layout
-  69
-  70 ```
-  71 app/                          Android module (Kotlin source, resources, JSPaint assets)
-  72 gradle/ build.gradle …        Gradle build system
-  73 Adient_NFC_Writer_Documentation.md   Detailed V2/V3 protocol & architecture notes
-  74 preview-webview.bat           Local helper to preview the JSPaint WebView in a desktop browser
-  75 nfc_trace.txt                 Captured NFC transaction log for reference
-  76 ```
-  77
-  78 ## License
-  79                                                                                                                      80 MIT — see [LICENSE](LICENSE).
+# Adient NFC Writer V4
+
+An Android app for generating images and flashing them to WaveShare passive, NFC-powered e-ink displays (primary target: the 2.9" model).
+
+## Features
+
+- **Text editor with emoji** — compose text, render it to a 1-bit bitmap sized for the target display.
+- **Image import from gallery** — pick any photo, crop/resize to the display resolution.
+- **WYSIWYG graphics editor** — freehand drawing via an embedded [JSPaint](https://jspaint.app) WebView.
+- **NFC flashing** — tap the phone to a WaveShare NFC e-ink tag to write the current image.
+- **No special permissions** beyond NFC and Internet.
+
+## Supported Hardware
+
+| Display | Resolution | Status |
+|---|---|---|
+| WaveShare 2.9" NFC e-paper | 296 × 128 | Primary target, tested |
+
+Other WaveShare NFC e-paper sizes (2.13", 4.2", 7.5") are covered in the V2/V3 codebase — see [`Adient_NFC_Writer_Documentation.md`](Adient_NFC_Writer_Documentation.md) for that architecture.
+
+## Architecture
+
+```
+MainActivity
+  ├─ TextEditor        → renders text+emoji to bitmap
+  ├─ ImagePicker       → gallery → crop → bitmap
+  └─ WysiwygEditor     → JSPaint WebView → JS bridge → bitmap
+        │
+        ▼
+   NfcFlasher (WaveShare SDK)
+        │
+        ▼
+   WaveShare NFC e-paper tag
+```
+
+- **UI:** Kotlin, Android Views
+- **Graphics editor:** HTML + JavaScript (JSPaint) hosted in a `WebView`, with a JS ↔ Kotlin bridge for image capture and canvas reset
+- **NFC:** WaveShare Android SDK (`NFC.jar` + display-specific libs in `app/libs/`)
+
+## Build
+
+Requirements:
+- Android Studio Hedgehog or later
+- Android SDK (compileSdk 33)
+- WaveShare NFC SDK jars placed in `app/libs/`
+
+```bash
+./gradlew assembleDebug
+# or, for a release build:
+./gradlew assembleRelease
+```
+
+Install on a connected device:
+```bash
+adb install -r app/build/outputs/apk/debug/app-debug.apk
+```
+
+## Usage
+
+1. Launch the app.
+2. Choose a source for your image:
+   - **New Text** — type, pick font size, add emoji.
+   - **Pick Image** — choose from gallery, crop to fit.
+   - **Draw** — open the JSPaint editor and sketch freehand.
+3. Tap **Flash**.
+4. Hold the phone against the NFC e-paper tag until the transfer completes and the display refreshes.
+
+## Project Layout
+
+```
+app/                          Android module (Kotlin source, resources, JSPaint assets)
+gradle/ build.gradle …        Gradle build system
+Adient_NFC_Writer_Documentation.md   Detailed V2/V3 protocol & architecture notes
+preview-webview.bat           Local helper to preview the JSPaint WebView in a desktop browser
+nfc_trace.txt                 Captured NFC transaction log for reference
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
